@@ -1,4 +1,7 @@
 class Chatty_student < Student
   
-  def 
+  def hello
+    super
+    puts"
+    
 end
